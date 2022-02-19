@@ -1,5 +1,8 @@
-Clinic-Finder is a web application and so easy to use.
-By entering your postal code, it will show you clinics and hospitals near you. 
-I created the backend with Node.JS following REST principles and I used React.JS for the frontend. Also I used Google API and MongoDB in this project.
-Also you can add your clinics or hospitals to your favourite list.
-There's a login page as well.
+Final project: Montreal Clinic Finder allows those seeking healthcare in Montreal to access information about clinics and hospitals in their area with ease and clarity.
+
+By entering your postal code, it will show you clinics and hospitals near you. Also you can add your clinics or hospitals to your favourite list.
+
+Methodology and Languages:
+The stack for this project includes React.JS, Node.JS. The server is uses RESTful endpoints and all data is stored in MongoDB.
+Google APIs are used in this project. A login page is created as well.
+
