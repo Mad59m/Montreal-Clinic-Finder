@@ -1,6 +1,8 @@
-Final project: Montreal Clinic Finder allows those seeking healthcare in Montreal to access information about clinics and hospitals in their area with ease and clarity.
+Final project: 
 
-By entering your postal code, it will show you clinics and hospitals near you. Also you can add your clinics or hospitals to your favourite list.
+This is a web app I created as a solo project to help Montrealers find the nearest clinic or hospital family doctor and navigate to healthcare facility. By entering your postal code, it will show you clinics and hospitals near you. Also you can add your clinics or hospitals to your favourite list. The web app was built over the course of two weeks as the final project for my Concordia Bootcamp course.
+
+Technologies: FE: React.js, Tailwindcss for UI, Google APIs // BE: Node.js, Express
 
 Methodology and Languages:
 The stack for this project includes React.JS, Node.JS. The server is uses RESTful endpoints and all data is stored in MongoDB.
